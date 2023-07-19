@@ -8,4 +8,3 @@
 ![Snake animation](https://github.com/############/########/blob/output/github-contribution-grid-snake.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CaioXTSY&icon=0&color=0)](https://visitcount.itsvg.in)
